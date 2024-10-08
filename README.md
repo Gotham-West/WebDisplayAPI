@@ -21,7 +21,7 @@ The installation script will handle these automatically.
 You can install the app using the following one-liner command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/gothamwest/webdisplayapi/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/gotham-west/webdisplayapi/main/install.sh | bash
 ```
 
 ### 2. Customize Installation
